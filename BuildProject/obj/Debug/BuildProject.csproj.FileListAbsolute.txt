@@ -1,0 +1,7 @@
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\bin\Debug\BuildProject.exe.config
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\bin\Debug\BuildProject.exe
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\bin\Debug\BuildProject.pdb
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\obj\Debug\BuildProject.csprojResolveAssemblyReference.cache
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\obj\Debug\BuildProject.csproj.CoreCompileInputs.cache
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\obj\Debug\BuildProject.exe
+C:\Users\Kyriv\Desktop\BuildProject\BuildProject\BuildProject\obj\Debug\BuildProject.pdb
